@@ -14,7 +14,7 @@
 <div align="center">
 
   <!-- PROJECT TITLE -->
-  <img src="https://raw.githubusercontent.com/mgks/Android-SmartWebView/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" width="150" alt="Smart WebView Logo">
+  <img src="https://github.com/havylliard/Android-SmartWebView/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" width="150" alt="Smart WebView Logo">
 
   <h1>Android Smart WebView</h1>
   
